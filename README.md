@@ -15,12 +15,3 @@ A simple  To-Do application demonstrating **asynchronous programming, xUnit test
 - **xUnit** (for unit testing)  
 - **Dependency Injection**  
 
-## 🏗️ Project Structure  
-ToDoApp
-│── /Controllers # Handles API requests
-│── /Services # Business logic
-│── /Repositories # Data access logic
-│── /Models # Entity models
-│── /Tests # xUnit test cases
-│── appsettings.json # Configurations
-│── Program.cs # Application startup, Dependency injection & middleware
